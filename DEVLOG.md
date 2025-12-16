@@ -1,4 +1,4 @@
-# Devlog: Workshop 7 -> FinChat (LLM + yfinance)
+# Devlog: 
 
 This log tells the story of turning the original “5-word summariser” miniapp into a finance-focused assistant that combines:
 
