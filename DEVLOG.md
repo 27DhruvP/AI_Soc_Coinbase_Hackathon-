@@ -117,7 +117,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-# LLM (optional but recommended)
 export OPENROUTER_API_KEY="..."
 export OPENROUTER_MODEL="openai/gpt-4o-mini"  # optional
 
