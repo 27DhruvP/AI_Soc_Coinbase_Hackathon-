@@ -1,4 +1,3 @@
-# FinChat (Workshop 7)
 
 Django miniapp that combines **yfinance** market data with a **generative model** (via OpenRouter) to provide educational, decision-support style investing guidance.
 
