@@ -30,6 +30,5 @@ Open `http://127.0.0.1:8000/`.
 
 ## Important
 
-This project is for **education** and **experimentation**. It is not financial advice. Data from yfinance is unofficial.
+This project is for the Hackathon with Coinbase hosted by the AI society
 
-See `DEVLOG.md` for the full build story.
