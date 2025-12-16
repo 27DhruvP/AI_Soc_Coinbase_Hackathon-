@@ -118,11 +118,11 @@ def farcaster_manifest_view(request):
   "miniapp": {
     "version": "1",
     "name": "summariser",
-    "homeUrl": "https://thegreatestminiappofalltime.onrender.com/",
+    "homeUrl": "https://finchat-v5ts.onrender.com/",
     "iconUrl": "https://static.vecteezy.com/system/resources/previews/011/995/200/non_2x/geometric-icon-logo-geometric-abstract-element-free-vector.jpg",
     "splashImageUrl": "https://static.vecteezy.com/system/resources/previews/011/995/200/non_2x/geometric-icon-logo-geometric-abstract-element-free-vector.jpg",
     "splashBackgroundColor": "#020617",
-    "webhookUrl": "https://thegreatestminiappofalltime.onrender.com/api/webhook",
+    "webhookUrl": "https://finchat-v5ts.onrender.com/api/webhook",
     "subtitle": "summarise anything",
     "description": "A mini app that can summarise any text you give it.",
     "screenshotUrls": [
